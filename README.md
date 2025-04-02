@@ -33,6 +33,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -43,6 +44,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -53,6 +55,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -63,6 +66,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
