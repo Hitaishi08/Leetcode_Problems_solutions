@@ -18,21 +18,21 @@ class Solution {
         List<Integer> result = new ArrayList<>();
         if(root == null)return result;
 
-        Deque<TreeNode> dq = new LinkedList<>();
-        dq.offer(root);
-        result.add(root.val);
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
 
-        while(!dq.isEmpty()){
-            int len = dq.size();
+        while(!queue.isEmpty()){
+            int len = queue.size();
+
             for(int i =0;i<len;i++){
-                TreeNode currnode = dq.pollFirst();
-                if(currnode.left != null)dq.add(currnode.left);
-                if(currnode.right != null)dq.add(currnode.right);
-            }
-            TreeNode rightmost = dq.peekLast();
-            if(rightmost != null)result.add(rightmost.val);
-        }
+                TreeNode curr = queue.poll();
 
+                if(i == len-1)result.add(curr.val);
+
+                if(curr.left != null)queue.offer(curr.left);
+                if(curr.right != null)queue.offer(curr.right);
+            }
+        }
         return result;
     }
 }
