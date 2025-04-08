@@ -47,6 +47,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1035-cousins-in-binary-tree) |
@@ -79,6 +80,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1035-cousins-in-binary-tree) |
@@ -93,6 +95,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1035-cousins-in-binary-tree) |
