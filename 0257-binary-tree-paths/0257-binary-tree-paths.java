@@ -25,7 +25,6 @@ class Solution {
 
         helper(root.left,list,str);
         helper(root.right,list,str);
-        str = str.substring(0, str.length() - 1);
     }
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> list = new ArrayList<>();
