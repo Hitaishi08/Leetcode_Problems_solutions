@@ -55,6 +55,7 @@
 | [0226-invert-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -97,6 +98,7 @@
 | [0226-invert-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -118,6 +120,7 @@
 | [0226-invert-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -143,8 +146,13 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0222-count-complete-tree-nodes) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
