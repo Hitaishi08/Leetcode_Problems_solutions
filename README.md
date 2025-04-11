@@ -51,6 +51,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -92,6 +93,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -135,9 +137,14 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0113-path-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
