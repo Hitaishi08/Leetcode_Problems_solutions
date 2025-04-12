@@ -59,6 +59,7 @@
 | [0437-path-sum-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -75,6 +76,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -102,6 +104,7 @@
 | [0437-path-sum-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -124,6 +127,7 @@
 | [0437-path-sum-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1035-cousins-in-binary-tree) |
 ## Linked List
 |  |
