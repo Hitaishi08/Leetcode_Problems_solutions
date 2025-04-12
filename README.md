@@ -159,4 +159,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
