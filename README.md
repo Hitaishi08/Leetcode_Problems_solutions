@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -90,6 +93,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -146,6 +150,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
