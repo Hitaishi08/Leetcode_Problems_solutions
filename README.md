@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
