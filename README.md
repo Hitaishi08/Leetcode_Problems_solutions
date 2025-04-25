@@ -196,6 +196,7 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Design
 |  |
