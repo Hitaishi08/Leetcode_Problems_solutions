@@ -10,6 +10,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
