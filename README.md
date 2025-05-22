@@ -9,6 +9,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
