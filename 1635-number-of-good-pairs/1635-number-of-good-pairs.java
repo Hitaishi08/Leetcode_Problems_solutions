@@ -10,7 +10,6 @@ class Solution {
 
         for(Map.Entry<Integer,Integer> entry : map.entrySet()){
             int n = entry.getValue();
-            System.out.println(n);
             count += n * (n - 1) / 2;
         }
 
