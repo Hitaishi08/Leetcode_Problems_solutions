@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
