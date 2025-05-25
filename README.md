@@ -41,6 +41,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Database
 |  |
 | ------- |
