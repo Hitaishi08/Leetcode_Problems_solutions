@@ -19,6 +19,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2058-concatenation-of-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
@@ -287,4 +288,5 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
