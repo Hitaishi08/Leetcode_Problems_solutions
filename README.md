@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0485-max-consecutive-ones) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1370-count-number-of-nice-subarrays) |
