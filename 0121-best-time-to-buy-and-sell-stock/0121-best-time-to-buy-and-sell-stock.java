@@ -1,37 +1,15 @@
 class Solution {
-    public int maxProfit(int[] n) {
-        int buy = Integer.MAX_VALUE;
-        int sell = Integer.MIN_VALUE;
+    public int maxProfit(int[] prices) {
+        int mini = prices[0];
+        int profit = 0;
 
-        int buyday = 0,sellday = 0;
+        for(int i=1;i<prices.length;i++){
+            int cost = prices[i] - mini;
+            profit = Math.max(profit,cost);
 
-        int maxprice = 0;
-
-        for(int i =0;i<n.length;i++)
-        {
-            if(buy > n[i])
-            {
-                buy = n[i];
-                buyday = i;
-            }
-
-            if(sell < n[i] && buyday < i)
-            {
-                sell = n[i];
-                sellday = i;
-            }
-
-            if(sellday > 0 && buyday > -1)
-            {
-                int price = sell - buy;
-                if(price > maxprice)
-                {
-                    maxprice = price;
-                }
-                sell = 0;
-                System.out.print(price + " ");
-            }
+            mini = Math.min(mini,prices[i]);
         }
-        return maxprice;
+
+        return profit;
     }
 }
