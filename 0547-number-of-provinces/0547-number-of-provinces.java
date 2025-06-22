@@ -1,4 +1,12 @@
 class Solution {
+    public void dfs(int node,int[][] isConnected,int[]visit){
+        visit[node] = 1;
+        for(int i = 0;i<isConnected.length;i++){
+            if(isConnected[node][i] == 1 && isConnected[node][i]==1 && visit[i] != 1){
+                dfs(i,isConnected,visit);
+            }
+        }
+    }
     public void bfs(int node,int[][] isConnected,int[]visit){
         int n = isConnected.length;
         visit[node] = 1;
@@ -22,7 +30,8 @@ class Solution {
         int count = 0;
         for(int i = 0;i<n;i++){
             if(visit[i] != 1){
-                bfs(i,isConnected,visit);
+                // bfs(i,isConnected,visit);
+                dfs(i,isConnected,visit);
                 count++;
             }
         }
