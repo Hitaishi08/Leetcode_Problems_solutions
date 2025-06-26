@@ -1,16 +1,17 @@
 class Solution {
-    // we will use kadane's Algorithm:
     public int maxSubArray(int[] nums) {
-        int maxi = Integer.MIN_VALUE;
-        int sum = 0;
+        int left = 0,right = 0;
+        int sum = 0,maxsum =  Integer.MIN_VALUE  ;
 
-        for(int i = 0;i<nums.length;i++){
-            sum += nums[i];
+        while(right < nums.length){
+            sum += nums[right];
 
-            maxi = Math.max(maxi,sum);
+            maxsum = Math.max(sum,maxsum);
+
             if(sum < 0)sum = 0;
+            right++;
         }
 
-        return maxi;
+        return maxsum;
     }
 }
