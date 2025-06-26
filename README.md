@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0075-sort-colors) |
@@ -223,6 +224,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0222-count-complete-tree-nodes) |
