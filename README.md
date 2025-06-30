@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -236,6 +237,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
