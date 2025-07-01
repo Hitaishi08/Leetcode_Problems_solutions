@@ -262,6 +262,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3617-find-the-original-typed-string-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Database
 |  |
 | ------- |
