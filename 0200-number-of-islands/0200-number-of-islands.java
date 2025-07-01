@@ -1,4 +1,6 @@
 class Solution {
+    // space : O(N);
+    // time : O(N^2) aprox
     public static int[] dir1 = {-1,1,0,0};
     public static int[] dir2 = {0,0,1,-1};
 
