@@ -12,13 +12,8 @@ class Solution {
         }
     }
 
-    private int bfs(int[][] grid,int[][]visit,int row,int col){
-        Queue<Pair> q = new LinkedList<>();
-
+    private int bfs(int[][] grid,int[][]visit,Queue<Pair> q){
         int cnt = -1;
-        visit[row][col] = 1;
-
-        q.offer(new Pair(row,col));
 
         while(!q.isEmpty()){
             int size = q.size();
@@ -53,33 +48,29 @@ class Solution {
 
         int fresh = 0;
 
+        Queue<Pair> q = new LinkedList<>();
+
         for(int i = 0;i<n;i++){
             for(int j = 0;j<m;j++){
-                if(grid[i][j] == 1){
-                fresh++;
+                if(grid[i][j] == 2){
+                    q.offer(new Pair(i,j));
+                    visit[i][j] = 1;
+                 }else{
+                    fresh++;
                 }
             }
         }
 
-        if(fresh < 1)return 0;
-
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
-                if(grid[i][j] == 2 && visit[i][j] != 1){
-                    cnt = bfs(grid,visit,i,j);
-                    break;
-                }
-            }
-        }
+        cnt = bfs(grid,visit,q);
 
         int left = 0;
 
         for(int i = 0;i<n;i++){
             for(int j = 0;j<m;j++){
-                if(grid[i][j] == 1)left++;
+                if(grid[i][j] == 1)return -1;
             }
         }
 
-        return (left > 0) ? -1 : cnt;
+        return (cnt == -1) ? 0 : cnt;
     }
 }
