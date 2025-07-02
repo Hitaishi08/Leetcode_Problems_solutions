@@ -15,7 +15,6 @@ class Solution {
         }
     }
     public int numEnclaves(int[][] grid) {
-        if(grid.length <= 1)return 0;
 
         int n = grid.length;
         int m = grid[0].length;
