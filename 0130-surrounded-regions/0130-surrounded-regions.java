@@ -1,4 +1,9 @@
 class Solution {
+    // found Os from the boundry and apply BFS or DFS to mark visited to all connected nodes.
+    // and those Os which are not visited will be the ones srrounded by X and hence can be converted into X
+
+    // Key Observation : apply DFS on boundry Os.
+    
     private static int[] dir1 = {-1,1,0,0};
     private static int[] dir2 = {0,0,1,-1};
 
