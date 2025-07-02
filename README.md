@@ -27,6 +27,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1073-number-of-enclaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -152,6 +153,7 @@
 | [1005-univalued-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1035-cousins-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1073-number-of-enclaves) |
 ## Linked List
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | [0130-surrounded-regions](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -350,6 +354,7 @@
 | [0542-01-matrix](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1073-number-of-enclaves) |
 | [1791-richest-customer-wealth](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1791-richest-customer-wealth) |
 ## Counting Sort
 |  |
