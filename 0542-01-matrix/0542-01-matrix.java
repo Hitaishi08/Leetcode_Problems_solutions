@@ -1,4 +1,5 @@
 class Solution {
+    // click expand from 0,store all zeros first and apply BFS
     static private int[] dir1 = {-1,1,0,0};
     static private int[] dir2 = {0,0,1,-1};
 
