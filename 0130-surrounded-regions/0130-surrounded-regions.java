@@ -6,7 +6,6 @@ class Solution {
         if(row < 0 || row >= board.length || col < 0 || col >= board[0].length || visit[row][col] == 1 || board[row][col] != 'O')return;
 
         visit[row][col] = 1;
-        board[row][col] = 'N';
 
         for(int i = 0;i<4;i++){
             int ii = row + dir1[i];
@@ -31,11 +30,8 @@ class Solution {
 
         for(int i = 0;i<n;i++){
             for(int j = 0;j<m;j++){
-                if(board[i][j] == 'O'){
+                if(board[i][j] == 'O' && visit[i][j] == 0){
                     board[i][j] = 'X';
-                }
-                if(board[i][j] == 'N'){
-                    board[i][j] = 'O';
                 }
             }
         }
