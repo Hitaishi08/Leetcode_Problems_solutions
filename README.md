@@ -152,6 +152,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1035-cousins-in-binary-tree) |
@@ -226,6 +227,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1035-cousins-in-binary-tree) |
@@ -344,6 +346,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0820-find-eventual-safe-states) |
 ## Counting
 |  |
 | ------- |
@@ -378,4 +381,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
