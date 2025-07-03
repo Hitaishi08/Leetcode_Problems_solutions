@@ -1,36 +1,26 @@
 class Solution {
-    public boolean BFS(int node,int[]visit,int[][] graph,char[] color){
-        Queue<Integer> q = new LinkedList<>();
+    public boolean DFS(int node,int col,int[][] graph,int[] color){
+        color[node] = (col == 0) ? 1 : 0;
 
-        visit[node] = 1;
-        q.offer(node);
-        color[node] = 'Y';
-
-        while(!q.isEmpty()){
-            int v = q.poll(); 
-
-            char currcol  = (color[v] == 'Y') ? 'G' : 'Y';
-
-            for(int ele : graph[v]){
-                if(visit[ele] != 1){
-                    color[ele] = currcol;
-                    visit[ele] = 1;
-                    q.offer(ele);
-                }else if(color[ele] == color[v])return false;
-            }       
+        for(int v : graph[node]){
+            if(color[v] == -1){
+                if(!DFS(v,color[node],graph,color))return false;
+            }else if(color[v] == color[node])return false;
         }
+
         return true;
     }
+    // using DFS:
     public boolean isBipartite(int[][] graph) {
         int n = graph.length;
-        int[] visit = new int[n];
-        char color[] = new char[n];
+        int m = graph[0].length;
 
-        for(int i = 0;i<n;i++){
-            if(visit[i] != 1){
-                if(!BFS(i,visit,graph,color)){
-                    return false;
-                }
+        int[] color = new int[n];
+        Arrays.fill(color,-1);
+
+        for(int i= 0;i<n;i++){
+            if(color[i] == -1){
+                if(!DFS(i,0,graph,color))return false;
             }
         }
 
