@@ -1,35 +1,49 @@
 class Solution {
-    public boolean DFS(int node,int[][] graph,int[] visit,int[] path){
-        visit[node] = 1;
-        path[node] = 1;
+    // it can also be solved with topology sort
+    // reverse the graph
+    // then apply topology sort and store the nodes with in degree 0
 
-        for(int v : graph[node]){
-            if(visit[v] == 0){
-                if(DFS(v,graph,visit,path))return true;
-            }else if(path[v] == 1)return true;
+    public List<Integer> eventualSafeNodes(int[][] graph) {
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+
+        for(int i = 0;i<graph.length;i++){
+            adj.add(new ArrayList<>());
         }
 
-        path[node] = 0;
-        return false;
-    }
-    public List<Integer> eventualSafeNodes(int[][] graph) {
-        int n = graph.length;
-
-        int[] visit = new int[n];
-        int[] path = new int[n];
-
-        for(int i = 0;i<n;i++){
-            if(visit[i] == 0){
-                DFS(i,graph,visit,path);
+        for(int i = 0;i<graph.length;i++){
+            for(int v : graph[i]){
+                adj.get(v).add(i);
             }
         }
 
         List<Integer> list = new ArrayList<>();
+        int[] indegree = new int[graph.length];
+        Queue<Integer> q = new LinkedList<>();
 
-        for(int i = 0;i<n;i++){
-            if(path[i] == 0)list.add(i);
+        for(int i =0;i<adj.size();i++){
+            for(int ele : adj.get(i)){
+                indegree[ele]++;
+            }
         }
+
+        for(int i = 0;i<indegree.length;i++){
+            if(indegree[i] == 0)q.offer(i);
+        }
+
+        while(!q.isEmpty()){
+            int node = q.poll();
+
+            list.add(node);
+
+            for(int v : adj.get(node)){
+                indegree[v]--;
+                if(indegree[v] == 0)q.offer(v);
+            }
+        }
+
+        Collections.sort(list);
 
         return list;
     }
+
 }
