@@ -1,76 +1,73 @@
 class Solution {
-    static private int[] dir1 = {-1,1,0,0};
-    static private int[] dir2 = {0,0,1,-1};
+    class Pair<U,V>{
+        U first;
+        V second;
 
-    class Pair{
-        int first;
-        int second;
-
-        Pair(int first,int second){
+        Pair(U first , V second){
             this.first = first;
             this.second = second;
         }
     }
 
-    private int bfs(int[][] grid,int[][]visit,Queue<Pair> q){
+    public static int[] dir1 = {-1,1,0,0};
+    public static int[] dir2 = {0,0,1,-1};
+
+    public int bfs(int[][] grid,int[][] visit,Queue<Pair<Integer,Integer>> q){
         int cnt = -1;
+        int n = grid.length;
+        int  m = grid[0].length;
 
         while(!q.isEmpty()){
-            int size = q.size();
+            int size  = q.size();
 
             for(int i = 0;i<size;i++){
-                int first = q.peek().first;
-                int second = q.peek().second;
-                q.poll();
-                for(int j = 0;j<4;j++){
-                    int ii = first + dir1[j];
-                    int jj = second + dir2[j];
+                Pair<Integer,Integer> node = q.poll();
+                int row = node.first;
+                int col = node.second;
 
-                if(ii>=0 && ii < grid.length && jj >=0 && jj < grid[0].length && visit[ii][jj] != 1 && grid[ii][jj] == 1){
-                    visit[ii][jj] = 1;
-                    grid[ii][jj] = 2;
-                    q.offer(new Pair(ii,jj));
+                for(int j = 0;j<4;j++){
+                    int ii = row + dir1[j];
+                    int jj = col + dir2[j];
+
+                    if(ii >= 0 && ii < n && jj >=0 && jj < m && visit[ii][jj] != 1 && grid[ii][jj] == 1){
+                        visit[ii][jj] = 1;
+                        q.offer(new Pair<>(ii,jj));
+                    }
                 }
             }
-            }
             cnt++;
-
         }
 
         return cnt;
     }
+
     public int orangesRotting(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
 
+        int cnt = 0 , fresh = 0;
+
         int[][] visit = new int[n][m];
-        int cnt = -1;
-
-        int fresh = 0;
-
-        Queue<Pair> q = new LinkedList<>();
+        Queue<Pair<Integer,Integer>> q = new LinkedList<>();
 
         for(int i = 0;i<n;i++){
             for(int j = 0;j<m;j++){
                 if(grid[i][j] == 2){
-                    q.offer(new Pair(i,j));
-                    visit[i][j] = 1;
-                 }else{
-                    fresh++;
-                }
+                    q.offer(new Pair<>(i,j));
+                }else if(grid[i][j] == 1)fresh++;
             }
         }
+
+        if(fresh == 0)return 0;
 
         cnt = bfs(grid,visit,q);
 
-        int left = 0;
-
         for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
-                if(grid[i][j] == 1)return -1;
+            for(int j =0;j<m;j++){
+                if(grid[i][j] == 1 && visit[i][j] == 1)fresh--;
             }
         }
 
-        return (cnt == -1) ? 0 : cnt;
+        return (fresh == 0) ? cnt : -1;
     }
 }
