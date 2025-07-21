@@ -1,49 +1,55 @@
 class Solution {
-    private static int[] dir1 = {-1,1,0,0};
-    private static int[] dir2 = {0,0,1,-1};
+    static class Pair<V,U>{
+        V first;
+        U second;
 
-    private static void DFS(int row,int col,int[][] grid,int[][] visit){
-        visit[row][col] = 1;
+        Pair(V first,U second){
+            this.first = first;
+            this.second = second;
+        }
+    }
 
-        for(int i = 0;i<4;i++){
-            int ii = row + dir1[i];
-            int jj = col + dir2[i];
+    public static int[] dir1 = {-1,1,0,0};
+    public static int[] dir2 = {0,0,1,-1};
 
-            if(ii >= 0 && ii < grid.length && jj >=0 && jj < grid[0].length && visit[ii][jj] != 1 && grid[ii][jj] == 1){
-                DFS(ii,jj,grid,visit);
+    public static void BFS(int[][] grid,Queue<Pair<Integer,Integer>> q,int[][] visit){
+
+        while(!q.isEmpty()){
+            Pair<Integer,Integer> data = q.poll();
+            int row = data.first;
+            int col = data.second;
+
+            for(int i = 0;i<4;i++){
+                int ii = row + dir1[i];
+                int jj = col + dir2[i];
+
+                if(ii >= 0 && ii < grid.length && jj >= 0 && jj < grid[0].length && visit[ii][jj] != 1 && grid[ii][jj] == 1){
+                    visit[ii][jj] = 1;
+                    q.offer(new Pair<>(ii,jj));
+                }
             }
         }
     }
     public int numEnclaves(int[][] grid) {
+       int[][] visit = new int[grid.length][grid[0].length];
 
-        int n = grid.length;
-        int m = grid[0].length;
+        Queue<Pair<Integer,Integer>> q = new LinkedList<>();
+
+        for(int i = 0;i<grid.length;i++){
+            for(int j = 0 ;j<grid[0].length;j++){
+                if((i == 0 || i == grid.length-1 || j == 0 || j == grid[0].length - 1) && grid[i][j] == 1){
+                    visit[i][j] = 1;
+                    q.offer(new Pair<>(i,j));
+                }
+            }
+        }
+
+        BFS(grid,q,visit);
+
         int cnt = 0;
 
-        int[][] visit = new int[n][m];
-
-        // for first and last row:
-        for(int j = 0;j<m;j++){
-            if(grid[0][j] == 1 && visit[0][j] != 1){
-                DFS(0,j,grid,visit);
-            }
-            if(grid[n-1][j] == 1 && visit[n-1][j] != 1){
-                DFS(n-1,j,grid,visit);
-            }
-        }
-
-        // for first and last col
-        for(int i = 0;i<n;i++){
-            if(grid[i][0] == 1 && visit[i][0] != 1){
-                DFS(i,0,grid,visit);
-            }
-            if(grid[i][m-1] == 1 && visit[i][m-1] != 1){
-                DFS(i,m-1,grid,visit);
-            }
-        }
-
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<m;j++){
+        for(int i = 0;i<grid.length;i++){
+            for(int j = 0;j<grid[0].length;j++){
                 if(grid[i][j] == 1 && visit[i][j] != 1){
                     cnt++;
                 }
