@@ -1,26 +1,40 @@
 class Solution {
-    public boolean DFS(int node,int col,int[][] graph,int[] color){
-        color[node] = (col == 0) ? 1 : 0;
+    public static boolean DFS(int node,int parent,int col,int[] visit,int[] color,List<List<Integer>> adj){
+        visit[node] = 1;
+        color[node] = col;
 
-        for(int v : graph[node]){
-            if(color[v] == -1){
-                if(!DFS(v,color[node],graph,color))return false;
-            }else if(color[v] == color[node])return false;
+        for(int v : adj.get(node)){
+            if(visit[v] != 1){
+                int newcol = (col == 1) ? 2 : 1;
+                if(!DFS(v,node,newcol,visit,color,adj)){
+                    return false;
+                }
+            }else if(color[v] == color[node]){
+                return false;
+            }
         }
 
         return true;
     }
-    // using DFS:
     public boolean isBipartite(int[][] graph) {
-        int n = graph.length;
-        int m = graph[0].length;
+        List<List<Integer>> adj = new ArrayList<>();
 
-        int[] color = new int[n];
-        Arrays.fill(color,-1);
+        for(int i = 0;i<graph.length;i++){
+            adj.add(new ArrayList<>());
+        }
 
-        for(int i= 0;i<n;i++){
-            if(color[i] == -1){
-                if(!DFS(i,0,graph,color))return false;
+        for(int i = 0;i<graph.length;i++){
+            for(int j = 0;j<graph[i].length;j++){
+                adj.get(i).add(graph[i][j]);
+            }
+        }
+
+        int[] visit = new int[graph.length];
+        int[] color = new int[graph.length];
+
+        for(int i = 0;i<graph.length;i++){
+            if(visit[i] != 1){
+                if(!DFS(i,-1,1,visit,color,adj))return false;
             }
         }
 
