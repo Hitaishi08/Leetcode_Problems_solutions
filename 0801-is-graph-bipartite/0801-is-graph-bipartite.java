@@ -19,13 +19,20 @@ class Solution {
     public boolean isBipartite(int[][] graph) {
         List<List<Integer>> adj = new ArrayList<>();
 
-        for(int i = 0;i<graph.length;i++){
-            adj.add(new ArrayList<>());
-        }
+        // for(int i = 0;i<graph.length;i++){
+        //     adj.add(new ArrayList<>());
+        // }
 
-        for(int i = 0;i<graph.length;i++){
-            for(int j = 0;j<graph[i].length;j++){
-                adj.get(i).add(graph[i][j]);
+        // for(int i = 0;i<graph.length;i++){
+        //     for(int j = 0;j<graph[i].length;j++){
+        //         adj.get(i).add(graph[i][j]);
+        //     }
+        // }
+
+        for (int i = 0; i < graph.length; i++) {
+            adj.add(new ArrayList<>());
+            for (int j : graph[i]) {
+                adj.get(i).add(j);
             }
         }
 
