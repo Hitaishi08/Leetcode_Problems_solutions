@@ -88,6 +88,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1078-remove-outermost-parentheses](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3617-find-the-original-typed-string-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Database
