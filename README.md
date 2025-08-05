@@ -48,6 +48,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3790-fruits-into-baskets-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -378,6 +380,7 @@
 | [2048-build-array-from-permutation](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3790-fruits-into-baskets-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -406,4 +409,12 @@
 | [0207-course-schedule](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0820-find-eventual-safe-states) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
