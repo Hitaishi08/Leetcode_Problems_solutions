@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0485-max-consecutive-ones) |
@@ -267,6 +268,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -341,6 +343,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -351,6 +354,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
