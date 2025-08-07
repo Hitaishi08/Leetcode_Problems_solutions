@@ -60,6 +60,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -300,6 +301,7 @@
 | [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3617-find-the-original-typed-string-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3617-find-the-original-typed-string-i) |
@@ -345,6 +347,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1370-count-number-of-nice-subarrays) |
