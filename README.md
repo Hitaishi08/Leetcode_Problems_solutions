@@ -256,6 +256,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -443,4 +444,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2032-largest-odd-number-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
