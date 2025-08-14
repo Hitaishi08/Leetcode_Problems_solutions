@@ -304,6 +304,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2032-largest-odd-number-in-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Database
@@ -334,6 +335,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -437,4 +439,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0187-repeated-dna-sequences) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
