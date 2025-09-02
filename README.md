@@ -49,6 +49,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -337,6 +338,7 @@
 | [1635-number-of-good-pairs](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2032-largest-odd-number-in-string) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [0169-majority-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -418,6 +421,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -448,4 +452,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0206-reverse-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
