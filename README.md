@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0046-permutations) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0088-merge-sorted-array) |
