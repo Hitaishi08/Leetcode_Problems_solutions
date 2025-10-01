@@ -340,6 +340,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -400,6 +401,7 @@
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [1642-water-bottles](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
