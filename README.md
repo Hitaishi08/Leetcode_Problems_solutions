@@ -45,6 +45,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1791-richest-customer-wealth) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2058-concatenation-of-array) |
