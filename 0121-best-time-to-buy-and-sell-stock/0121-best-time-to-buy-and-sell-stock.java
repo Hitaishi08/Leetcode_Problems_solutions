@@ -1,15 +1,18 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int mini = prices[0];
-        int profit = 0;
+        // we dont need to keep track of sell and buy explicitly 
+        // because each day work as selling day
 
-        for(int i=1;i<prices.length;i++){
-            int cost = prices[i] - mini;
-            profit = Math.max(profit,cost);
+        int buy = Integer.MAX_VALUE,maxprofit = 0;
 
-            mini = Math.min(mini,prices[i]);
+        for(int i = 0;i<prices.length;i++){
+            if(prices[i] < buy){
+                buy = prices[i];
+            }else if(prices[i] - buy > maxprofit){
+                maxprofit = prices[i] - buy;
+            }
         }
 
-        return profit;
+        return maxprofit;
     }
 }
