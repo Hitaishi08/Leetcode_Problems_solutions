@@ -18,6 +18,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0137-single-number-ii) |
@@ -61,6 +62,7 @@
 | [0001-two-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
@@ -381,6 +383,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0547-number-of-provinces) |
