@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0169-majority-element) |
@@ -419,6 +421,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0542-01-matrix) |
