@@ -72,6 +72,7 @@
 | [0169-majority-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -319,6 +320,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -366,6 +368,7 @@
 | [0088-merge-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
