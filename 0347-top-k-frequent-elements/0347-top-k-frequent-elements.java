@@ -1,4 +1,9 @@
 class Solution {
+    // simpple approach:
+    // 1. store the freqvency in map.
+    // 2. put the freq and values in list
+    // 3. sort the list
+    // 4. store the result in arr and return.
     public int[] topKFrequent(int[] nums, int k) {
         HashMap<Integer,Integer> map = new HashMap<>();
 
