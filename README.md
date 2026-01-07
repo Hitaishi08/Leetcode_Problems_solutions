@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0049-group-anagrams) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -440,6 +442,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0200-number-of-islands) |
