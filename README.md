@@ -98,6 +98,7 @@
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -328,6 +329,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0257-binary-tree-paths) |
