@@ -42,6 +42,7 @@
 | [0485-max-consecutive-ones](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0733-flood-fill) |
+| [0881-boats-to-save-people](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0881-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1036-rotting-oranges) |
@@ -108,6 +109,7 @@
 | [0189-rotate-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -395,6 +397,7 @@
 | [0242-valid-anagram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0881-boats-to-save-people) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sliding Window
@@ -505,6 +508,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0881-boats-to-save-people) |
 | [2032-largest-odd-number-in-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
