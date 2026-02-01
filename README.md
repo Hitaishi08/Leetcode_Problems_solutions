@@ -67,6 +67,7 @@
 | [2058-concatenation-of-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -404,6 +405,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0881-boats-to-save-people) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sliding Window
 |  |
@@ -486,6 +488,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Topological Sort
 |  |
