@@ -71,6 +71,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3637-trionic-array-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3637-trionic-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
