@@ -72,6 +72,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3637-trionic-array-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3640-trionic-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -132,6 +133,7 @@
 | [0542-01-matrix](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3640-trionic-array-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
 | ------- |
