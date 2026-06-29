@@ -41,6 +41,7 @@
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0733-flood-fill) |
@@ -93,6 +94,7 @@
 | [0242-valid-anagram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -118,6 +120,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1768-merge-strings-alternately) |
@@ -325,6 +328,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -409,6 +413,7 @@
 | [0242-valid-anagram](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0881-boats-to-save-people) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
