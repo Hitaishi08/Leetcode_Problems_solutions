@@ -4,13 +4,14 @@ class Solution {
         int one = 0;
 
         for(int i= 0;i<nums.length;i++){
-            one += nums[i];
 
-            if(nums[i] == 0){
+            if(nums[i] == 1){
+                one += nums[i];
+                maxone = Math.max(one,maxone);
+            }else{
                 one = 0;
             }
-
-            maxone = Math.max(one,maxone);
+            
         }
         return maxone;
     }
