@@ -44,6 +44,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0733-flood-fill) |
 | [0881-boats-to-save-people](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0881-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0940-fruit-into-baskets) |
@@ -97,6 +98,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -439,6 +441,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
