@@ -1,17 +1,19 @@
 class Solution {
+    // when to find the max sum of subarray.
+    // we gonna use the kadane's algorithm.
+
     public int maxSubArray(int[] nums) {
-        int left = 0,right = 0;
-        int sum = 0,maxsum =  Integer.MIN_VALUE  ;
+        int maxsum = Integer.MIN_VALUE;
+        int sum = 0;
 
-        while(right < nums.length){
-            sum += nums[right];
+        for(int i = 0;i<nums.length;i++){
+            sum += nums[i];
 
-            maxsum = Math.max(sum,maxsum);
+            maxsum = Math.max(maxsum,sum);
 
             if(sum < 0)sum = 0;
-            right++;
-        }
 
+        }
         return maxsum;
     }
 }
