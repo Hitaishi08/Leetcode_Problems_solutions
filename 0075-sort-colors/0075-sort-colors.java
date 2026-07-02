@@ -1,26 +1,25 @@
 class Solution {
+    public void swap(int[] nums,int index1,int index2){
+        int temp = nums[index1];
+        nums[index1] = nums[index2];
+        nums[index2] = temp;
+    }
+    // 2nd method is to use the "Dutch National Flag Algorithm"
     public void sortColors(int[] nums) {
-        int zero = 0 , one = 0, two = 0;
+        int low = 0, curr = 0, high = nums.length-1;
+        int n = nums.length;
 
-        for(int i = 0;i<nums.length;i++){
-            if(nums[i] == 0)zero++;
-            else if(nums[i] == 1)one++;
-            else two++;
-        }
-
-        for(int i = 0;i<nums.length;i++){
-            if(zero>0){
-                nums[i] = 0;
-                zero--;
+        while(curr <= high){
+            if(nums[curr] == 0){
+                swap(nums,low,curr);
+                low++;
+                curr++;
+            }else if(nums[curr] == 2){
+                swap(nums,high,curr);
+                high--;
+            }else{
+                curr++;
             }
-            else if(one > 0){
-                nums[i] = 1;
-                one--;
-            }
-            else {
-                nums[i] = 2;
-                two--;
-            }
-        }
+        }                                   
     }
 }
