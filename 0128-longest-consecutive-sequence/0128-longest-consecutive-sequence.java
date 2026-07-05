@@ -8,12 +8,11 @@ class Solution {
 
         int maxcount = 0;
 
-        for(int i=0;i<nums.length;i++){
-            int ele = nums[i];
+        for(int i : set){
+            int ele = i;
             if(!set.contains(ele-1)){
             int count = 0;
             while(set.contains(ele)){
-                set.remove(ele);
                 ele += 1;
                 count++;
             }
