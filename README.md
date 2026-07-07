@@ -15,6 +15,7 @@
 | [0036-valid-sudoku](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0053-maximum-subarray) |
@@ -397,6 +398,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -490,6 +492,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hitaishi08/Leetcode_Problems_solutions/tree/master/0200-number-of-islands) |
